@@ -6,4 +6,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.header("siwakan")
+#st.header("siwakan")
+st.image("./pic/npru.png")
+st.image("./pic/guide.jpg")
