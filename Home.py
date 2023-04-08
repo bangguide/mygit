@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #st.header("siwakan")
-st.image("./pic/bg.png")
+st.image("./pic/banner.png")
 #st.image("./pic/guide.jpg")
 html_8 = """
 <div style="background-color:#990066;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
