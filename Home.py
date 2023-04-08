@@ -11,7 +11,7 @@ st.image("./pic/banner.png")
 #st.image("./pic/guide.jpg")
 image_file1 = "./pic/guide.jpg"
 st.image(image_file1, width=650,)
-image_file2 = "./pic/guide.jpg"
+image_file2 = "./pic/smile.jpg"
 st.image(image_file2, width=650,)
 html_8 = """
 <div style="background-color:#990066;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
