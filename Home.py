@@ -10,9 +10,9 @@ import plotly.graph_objects as go
 st.image("./pic/banner.png")
 #st.image("./pic/guide.jpg")
 image_file1 = "./pic/guide.jpg"
-st.image(image_file1, width=500,)
+st.image(image_file1, width=250,)
 image_file2 = "./pic/smile.jpg"
-st.image(image_file2, width=500,)
+st.image(image_file2, width=250,)
 html_8 = """
 <div style="background-color:#990066;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>การทำนายข้อมูลดอกไม้</h5></center>
